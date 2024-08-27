@@ -1,5 +1,6 @@
-Movie Database Application
-Overview
+# Movie Database Application
+
+## Overview
 This project is a movie database application where users can add, view, and manage movies. It features functionalities such as adding movies with detailed information, displaying movies in a user-friendly UI, and managing actors and directors with their associated movies.
 
 Features
